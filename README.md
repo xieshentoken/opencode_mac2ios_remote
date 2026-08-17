@@ -259,4 +259,4 @@ xcrun simctl launch booted dev.opencodemobile.app \
 
 ## License
 
-见仓库 LICENSE 文件（发布前请自行添加）。
+MIT license
