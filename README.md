@@ -14,7 +14,7 @@ A native SwiftUI client for iPhone and iPad that remotely controls AI coding age
 
 ---
 
-## 中文说明
+## 说明
 
 ### 项目功能
 
@@ -299,7 +299,7 @@ xcodebuild test \
 
 ---
 
-## English
+## Description
 
 ### Features
 
